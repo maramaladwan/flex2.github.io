@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+      
+       
+        .lo{
+           display: flex;
+            justify-content: space-between;
+            border: 2px solid white;
+            background-color:aqua;
+            color: black;
+           
+        }
+        .FL{
+            
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid #333;
+            background-color:rgb(145, 181, 190);
+            color: black;}
+            .page{
+                display: flex;
+                color: blueviolet;
+                justify-content: space-between;}
+            .b{
+                color: white;
+                background-color: blueviolet;
+
+
+            }   
+            .im{
+                border: 10px solid #5e3a3a;
+                padding: 10px;
+                display: inline-block;
+
+            } 
+            .p2{
+                color: #7c9982;
+                border: 5px;
+                margin-top: 10px;}
+            .im1{
+                border: 10px solid #7c9982;
+                padding: 10px;
+                display: inline-block;
+
+            }
+            .im2{
+                border: 10px solid #c4c707;
+                padding: 10px;
+                display: inline-block;}
+                .p3{
+                    color: rgb(160, 160, 109);
+                }
+                .bo{
+                    color: rgb(41, 146, 123);
+                    margin-right: 10px;
+                }
+                .bo1{
+                    color: rgb(112, 73, 21);
+                }
+                .footer{
+                    border: 3px solid orange;
+                    color:white;
+                    background-color: orange;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                .heder{
+                    border: 5px;
+                    color:white;
+                    background-color: orange;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+            
+
+            
+        
+    </style>
+</head>
+<body>
+    <div>
+        <div class="heder" > <p> Power Grid :store or Home page</p> </div>
+            
+        
+    <div class="lo">
+        <div class="FL">Home</div>
+        <div class="FL">About</div>
+        <div class="FL">blog</div>
+        <div class="Fl">Careers</div>
+        <div class="Fl">Contact us</div>
+   
+    </div>
+    <div class="page" dir="colm"> 
+    <div> 
+     <div class="p"><img src="https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGNvbXB1dGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"class="im"   >
+
+      
+      <p>The computer is the device that has made tremendous progress in the world of information and data in terms of The speed of their preservation and organization, as well as analysis and reference to any information that was saved as quickly as possible.
+
+        One of the biggest benefits of using a computer is to save time where you can get the information in part From the second.</p> <button class="bo1">Go Somewhere</button></div>
+    </div>  
+        <div>
+          <div class="p2"> <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbXB1dGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" class="im1"><p class="p1">Imagine the size of the files Which can save information and data on a single computer and how long of time And effort to write them.
+
+Imagine the effort and time spent trying to get any information without using the computer.
+
+The computer has become indispensable in all areas.
+
+In the past, the man did his work manually. </p> <button class="bo">Go Somewhere</button></div>
+</div>  
+<div>
+       
+     <div class="p"> <img src="https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGNvbXB1dGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" alt="no imge"border: 10px solid #5e3a3a;
+        class="im2"> <p class="p3">A mathematician, philosopher, inventor and mechanical engineer, Babbage originated the concept of a digital programmable computer.</p>
+        <button class="b">Go Somewhere</button></div>
+    </div>  
+     
+
+
+
+
+    </div>
+</div>
+<div class="footer" >
+    <p>Copywrite @2022</p>
+</div>
+</body>
+</html>
